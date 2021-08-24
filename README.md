@@ -6,5 +6,5 @@ Never open the OTP App while coding!
   3. Run: `node index.js`
   4. Help? `?`
   
-![ricing](./ricing.png)
+![ricing](./doc/ricing.png)
 
